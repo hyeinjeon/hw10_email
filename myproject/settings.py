@@ -179,6 +179,4 @@ EMAIL_USE_SSL = False
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'hayleyjhi@gmail.com' # ex) bum752@gmail.com
-EMAIL_HOST_PASSWORD = '38173817aa**' # ex) P@ssw0rd
-#SERVER_EMAIL = 'hayleyjhi@gmail.com' # ex) bum752@gmail.com
-#DEFAULT_FROM_MAIL = '38173817aa' # ex) bum752
+EMAIL_HOST_PASSWORD = '' # ex) P@ssw0rd
